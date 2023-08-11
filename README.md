@@ -21,7 +21,7 @@ Each notebook focuses on a specific machine learning algorithm and guides you th
 
 1. [Linear Regression](https://github.com/waugh-joseph10/ML_from_Scratch/blob/main/notebooks/Linear_Regression.ipynb)
 2. [Logistic Regression](https://github.com/waugh-joseph10/ML_from_Scratch/blob/main/notebooks/Logistic_Regression.ipynb)
-3. K-Nearest Neighbors
+3. [K-Nearest Neighbors](https://github.com/waugh-joseph10/ML_from_Scratch/blob/main/notebooks/K_Nearest_Neighbors.ipynb)
 4. Decision Trees
 5. Support Vector Machines
 6. Neural Networks (Multi-Layer Perceptron)
