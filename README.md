@@ -19,8 +19,8 @@ This repository contains a series of Jupyter notebooks that walk you through the
 
 Each notebook focuses on a specific machine learning algorithm and guides you through the step-by-step implementation process. The implemented algorithms include:
 
-1. Linear Regression
-2. Logistic Regression
+1. [Linear Regression](https://github.com/waugh-joseph10/ML_from_Scratch/blob/main/notebooks/Linear_Regression.ipynb)
+2. [Logistic Regression](https://github.com/waugh-joseph10/ML_from_Scratch/blob/main/notebooks/Logistic_Regression.ipynb)
 3. K-Nearest Neighbors
 4. Decision Trees
 5. Support Vector Machines
