@@ -37,3 +37,10 @@ def log_reg_metrics(y_true, y_pred):
     f1 = 2 * (precision * recall) / float(precision + recall)
     accuracy = float(TP + TN) / float(TP + TN + FP + FN)
     return precision, recall, f1, accuracy, conf_mat
+
+def accuracy(y_true, y_pred):
+    """
+    Helper function to determine accuracy from
+    the trained model's predictions vs. actuals
+    """
+    return np.sum(y_true == y_pred) / len(y_true)
