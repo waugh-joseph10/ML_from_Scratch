@@ -14,9 +14,11 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process arguments for the LinearRegression classifier')
     parser.add_argument('--lr', 
                         type=float, 
+                        default=1e-3,
                         help='Learning Rate')
     parser.add_argument('--n_iters', 
                         type=int, 
+                        default=1000,
                         help='Number of Iterations')
     parser.add_argument('--noise', 
                         type=float, 
