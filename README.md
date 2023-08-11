@@ -58,7 +58,9 @@ Run the following Python code below to create and activate a virtual environment
 <br><br>
 
 ## Usage
-After setting up the environment, you can launch any of the Jupyter notebooks to explore and run the notebooks. All Jupyter notebooks are located within the ```notebooks``` folder.
+After setting up the environment, you can launch any of the Jupyter notebooks to explore and run the notebooks. All Jupyter notebooks are located within the ```notebooks``` folder. Links to the notebooks are shown below:
+<br>
+- [Linear Regression]('https://github.com/waugh-joseph10/ML_from_Scratch/blob/main/notebooks/Linear_Regression.ipynb')
 
 ## Contributions
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or create an issue.
